@@ -19,7 +19,7 @@ This project aims to predict car prices using data collected through web scrapin
 - Collected features such as:
   - Brand, Series, Model, Year, Mileage, Gear Type, Fuel Type
   - Car body type, Color, Engine Power, Price, and other detailed attributes.
-
+ 
 ### Data Cleaning
 - Removed invalid or null entries.
 - Converted data types and standardized formats for numerical columns.
